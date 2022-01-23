@@ -12,5 +12,6 @@
 
 <h2><a href="https://github.com/bulutluoz/batch30-POM" >2021 Yaz Page Object Model(POM) Framework</a> </h2>
 
+<h2><a href="https://github.com/bulutluoz/Batch30-TestNG" >2021 Yaz TestNG Framework</a> </h2>
 
 
