@@ -10,4 +10,7 @@
 
 <h2><a href="https://github.com/bulutluoz/batch30-Cucumber" >2021 Yaz Cucumber Framework</a> </h2>
 
+<h2><a href="https://github.com/bulutluoz/batch30-POM" >2021 Yaz Page Object Model(POM) Framework</a> </h2>
+
+
 
