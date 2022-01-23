@@ -2,4 +2,4 @@
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
-<a href="https://github.com/bulutluoz/ISTQB-2022-gunluk-sorular" style="font-size: 32px"> <text style="font-size: 32px"> ISTQB Gunluk Sorular ve Syllabus Tecumesi</text></a>
+<h2><a href="https://github.com/bulutluoz/ISTQB-2022-gunluk-sorular" > ISTQB Gunluk Sorular ve Syllabus Tecumesi</a> </h2>
