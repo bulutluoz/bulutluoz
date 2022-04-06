@@ -2,6 +2,7 @@
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
+<h2><a href="https://github.com/bulutluoz/15-dakikada-Java-Serisi" >🧿15 Dakikada Java Dersleri </a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/OCA-Sorular" >🧿OCA Sorular </a> </h2>
 
