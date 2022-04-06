@@ -4,7 +4,7 @@
 
 <h2><a href="https://github.com/bulutluoz/15-dakikada-Java-Serisi" >🧿15 Dakikada Java Dersleri </a> </h2>
 
-<h2><a href="https://github.com/bulutluoz/OCA-Sorular" >🧿OCA Sorular </a> </h2>
+<h2><a href="https://github.com/bulutluoz/OCA-Sorular" >🧿OCA Soru Ornekleri </a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/ISTQB-2022-gunluk-sorular" >🧿ISTQB Gunluk Sorular ve Syllabus Tecumesi</a> </h2>
 
