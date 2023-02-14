@@ -2,6 +2,8 @@
 
 <!--![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)-->
 
+<h2><a href="[https://github.com/bulutluoz/Free-Java-Dersleri](https://www.udemy.com/course/api-testing-abulutluoz/?couponCode=8E9F6B63D7EAC7C434AD)" >🧿 Udemy API Test Otomasyon Kursu %50 indirim Kuponu </a> </h2>
+
 <h2><a href="https://github.com/bulutluoz/Free-Java-Dersleri" >🧿 Free Java Hazirlik Dersleri </a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/30-dakikada-Selenium-Serisi" >🧿 YouTube Selenium Ders Kodlari </a> </h2>
