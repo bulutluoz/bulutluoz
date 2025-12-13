@@ -13,7 +13,7 @@
 
 <h2><a href="https://github.com/bulutluoz/Team161_TestNG_POM_Summer2025" >🧿 Selenium ile UI Test otomasyonu Page Object Model(POM) - TestNG Framework</a> </h2>
 
-<h2><a href="https://github.com/bulutluoz/Team161_Selenium_Maven" >🧿 Selenium ile UI Test otomasyonu Cucumber Framework</a> </h2>
+<h2><a href="https://github.com/bulutluoz/SeleniumVideoDersleri_Cucumber" >🧿 Selenium ile UI Test otomasyonu Cucumber Framework</a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/15-dakikada-Java-Serisi" >🧿 YouTube 15 Dakikada Java Serisi Kodlari </a> </h2>
 
