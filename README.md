@@ -9,7 +9,7 @@
 
 <h2><a href="https://github.com/bulutluoz/Team161_Selenium_Maven" >🧿 Selenium ile UI Test otomasyonuna Giris</a> </h2>
 
-<h2><a href="https://github.com/bulutluoz/Team161_Selenium_Junit_Summer2025" >🧿 Selenium ile UI Test otomasyonu JUnit5 Framework</a> </h2>
+<h2><a href="https://github.com/bulutluoz/SeleniumVideoDersleri_JUnit/tree/main/src/test/java" >🧿 Selenium ile UI Test otomasyonu JUnit5 Framework</a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/Team161_TestNG_POM_Summer2025" >🧿 Selenium ile UI Test otomasyonu Page Object Model(POM) - TestNG Framework</a> </h2>
 
