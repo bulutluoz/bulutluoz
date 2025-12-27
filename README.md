@@ -5,7 +5,7 @@
 
 <h2><a href="https://github.com/bulutluoz/Free-Java-Dersleri" >🧿 Free Java Hazirlik Dersleri </a> </h2>
 
-<h2><a href="https://github.com/bulutluoz/Team161_Java_Winter2025" >🧿 Full Java Kursu </a> </h2>
+<h2><a href="https://github.com/bulutluoz/WiseQuarterJavaVideoDersleri" >🧿 Full Java Kursu </a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/Team161_Selenium_Maven" >🧿 Selenium ile UI Test otomasyonuna Giris</a> </h2>
 
