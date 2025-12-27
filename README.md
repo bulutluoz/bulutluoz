@@ -17,6 +17,12 @@
 
 <h2><a href="https://github.com/bulutluoz/JDBC-video-dersleri" >🧿 JDBC ve TestNG ile Database Test Otomasyonu</a> </h2>
 
+<h2><a href="https://github.com/bulutluoz/JDBC-Cucumber-Video-Dersleri" >🧿 JDBC ve Cucumber ile Database Test Otomasyonu</a> </h2>
+
+<h2><a href="https://github.com/bulutluoz/JDBC-ve-TestNG-ile-database-testi-ornekleri" >🧿 JDBC ve TestNG ile Database Test Otomasyon Ornek Sorgu cozumleri</a> </h2>
+
+<h2><a href="https://github.com/bulutluoz/JDBC-ve-Cucumber-ile-Database-Test-Ornekleri" >🧿 JDBC ve Cucumber ile Database Test Otomasyonu Sorgu cozumleri</a> </h2>
+
 <h2><a href="https://github.com/bulutluoz/15-dakikada-Java-Serisi" >🧿 YouTube 15 Dakikada Java Serisi Kodlari </a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/30-dakikada-Selenium-Serisi" >🧿 YouTube 30 Dakikada Selenium Serisi Kodlari </a> </h2>
