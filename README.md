@@ -1,7 +1,7 @@
 <h1>Java ve Selenium Instructor</h1>
 
 
-<h2><a href="https://www.udemy.com/course/api-testing-abulutluoz/?couponCode=BULUTLUOZ_KASIM2025" >🧿 Udemy API Test Otomasyon Kursu %70 indirim Kuponu </a> </h2>
+<h2><a href="https://www.udemy.com/course/api-testing-abulutluoz/?couponCode=API_OCAK2026" >🧿 Udemy API Test Otomasyon Kursu %70 indirim Kuponu </a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/Free-Java-Dersleri" >🧿 Free Java Hazirlik Dersleri </a> </h2>
 
