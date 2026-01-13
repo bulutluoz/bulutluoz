@@ -7,6 +7,8 @@
 
 <h2><a href="https://github.com/bulutluoz/WiseQuarterJavaVideoDersleri" >🧿 Full Java Kursu </a> </h2>
 
+<h2><a href="https://github.com/bulutluoz/Sifirdan-Java-Ogrenin--Modul-1--Temel-Programlama.git" >🧿 Sifirdan Java Ogrenin - Modul 1 - Temel Programlama </a> </h2>
+
 <h2><a href="https://github.com/bulutluoz/Team161_Selenium_Maven" >🧿 Selenium ile UI Test otomasyonuna Giris</a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/SeleniumVideoDersleri_JUnit/tree/main/src/test/java" >🧿 Selenium ile UI Test otomasyonu JUnit5 Framework</a> </h2>
