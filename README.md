@@ -35,6 +35,4 @@
 
 <h2><a href="https://github.com/bulutluoz/Canli-Yayin-API-dersleri" >🧿 Canli Yayin API Dersleri  </a> </h2>
 
-<h2><a href="https://github.com/bulutluoz/Selenium_4-Yenilikler" >🧿 Selenium 4 Yeni Ozellikler</a> </h2>
-
 
