@@ -17,6 +17,8 @@
 
 <h2><a href="https://github.com/bulutluoz/SeleniumVideoDersleri_Cucumber" >🧿 Selenium ile UI Test otomasyonu Cucumber Framework</a> </h2>
 
+<h2><a href="https://github.com/bulutluoz/SQL-Dersleri" >🧿 SQL Kursu </a> </h2>
+
 <h2><a href="https://github.com/bulutluoz/JDBC-video-dersleri" >🧿 JDBC ve TestNG ile Database Test Otomasyonu</a> </h2>
 
 <h2><a href="https://github.com/bulutluoz/JDBC-Cucumber-Video-Dersleri" >🧿 JDBC ve Cucumber ile Database Test Otomasyonu</a> </h2>
